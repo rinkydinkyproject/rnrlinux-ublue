@@ -1,3 +1,5 @@
+THIS IS A BLUEBUILD IN PROGRESS IMAGE, DO NOT USE UNTIL THIS MESSAGE IS UPDATED! THIS IS PURE TESTING ONLY!
+
 # rnrlinux-ublue &nbsp; [![bluebuild build badge](https://github.com/rinkydinkyproject/rnrlinux-ublue/actions/workflows/build.yml/badge.svg)](https://github.com/rinkydinkyproject/rnrlinux-ublue/actions/workflows/build.yml)
 
 See the [BlueBuild docs](https://blue-build.org/how-to/setup/) for quick setup instructions for setting up your own repository based on this template.
